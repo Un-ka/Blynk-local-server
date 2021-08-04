@@ -6,3 +6,11 @@ The creators of blynk removed the local server releases from the github.  But th
 **Server version server-0.41.15.jar and for java8.**
 
 Gdrive - https://drive.google.com/folderview?id=1xw_JZCTNDs2Agnto-IDmGChKB_it7ALy
+Or just
+```bash
+sudo wget https://github.com/Un-ka/Blynk-local-server/releases/download/v0.41.15/server-0.41.15-java8.jar
+```
+or
+```bash
+sudo wget https://github.com/Un-ka/Blynk-local-server/releases/download/v0.41.15/server-0.41.15.jar
+```
